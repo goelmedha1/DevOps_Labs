@@ -1,0 +1,4 @@
+What is the Pyro uri of the greeting object? PYRO:obj_8f1fafe0313f4949a883afc698c42a1e@localhost:52769
+What is your name? Swati Agrawal
+Hello, Swati Agrawal. Here is your fortune message:
+Behold the warranty -- the bold print giveth and the fine print taketh away.

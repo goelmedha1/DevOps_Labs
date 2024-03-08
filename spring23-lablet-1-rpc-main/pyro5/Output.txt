@@ -1,0 +1,3 @@
+What is your name? Swati Agrawal
+Hello, Swati Agrawal. Here is your fortune message:
+Tomorrow's lucky number is 12345678.

@@ -1,0 +1,8 @@
+socket binded to port 12345
+socket is listening
+Connected to : 10.0.0.3 : 51575
+Connected to : 10.0.0.141 : 51621
+Connected to : 10.0.0.141 : 51716
+Bye
+Connected to : 10.0.0.3 : 51646
+Bye

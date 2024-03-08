@@ -1,0 +1,7 @@
+please input your message, type exit to stop
+Hello
+Server replied: olleH
+please input your message, type exit to stop
+Swati
+Server replied: itawS
+please input your message, type exit to stop
